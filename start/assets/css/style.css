@@ -1,0 +1,19 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    text-align: center;
+    color: white;
+    background: linear-gradient(120deg, #740974, #1515ce, #740974);
+}
+
+body h1, h3{
+   color: #ff8800
+}
+body ul{
+    display: inline-block;
+    text-align: left;
+}
